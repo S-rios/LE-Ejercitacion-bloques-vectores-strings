@@ -9,7 +9,7 @@ int main(void) {
   do{
     printf("Por favor ingrese la nota de su alumno o  -1 para finalizar\n");
     scanf("%f",&Nota);
-    if(Nota!=-1 && Nota >= 0 && Nota <= 10){
+    if(Nota!=-1 && Nota >=0 && Nota <=10){
       Res = Nota + Res;
       Can ++;
     }else if((Nota < 0 || Nota > 10) && Nota != -1){
