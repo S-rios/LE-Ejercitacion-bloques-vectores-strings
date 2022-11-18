@@ -7,7 +7,7 @@ int main()
  char i;
  char indice=-1;
   
-  printf("ingrese una lista de 10 números\n");
+  printf("ingrese una lista de 10 numeros\n");
     for(i=0;i<10;i++){
        scanf("%d", &lista[i]);
     }
