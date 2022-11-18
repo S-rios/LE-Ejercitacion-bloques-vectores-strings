@@ -7,9 +7,9 @@ float modulo;
 float Calculo(float u, float y);
 
 int main(void) {
-  printf("Porfavor ingrese su valor de u subx\n");
+  printf("Por favor ingrese su valor de u subx\n");
   scanf("%f",&u);
-  printf("Porfavor ingrese su valor de u suby\n");
+  printf("Por favor ingrese su valor de u suby\n");
   scanf("%f",&y);
   Calculo(u,y);
   printf("Su modulo es de:%f",modulo);
