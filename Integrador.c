@@ -1,7 +1,7 @@
 /* Programa al que se le pide un número y este número será la cantidad de palabras que se van a poder ingresar,(ingresa las palabras) y como respuesta
 se recibe la más larga.*/
 #include <stdio.h>
-#include <string.h> 
+
 
 int cant;
 char i;
