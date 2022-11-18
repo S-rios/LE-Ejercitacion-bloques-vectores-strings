@@ -8,7 +8,7 @@ int main(void) {
       printf("Por favor ingrese sus valores entre 0 y 50\n");
       scanf("%d", &lista[i]);
       if (lista[i] < 0 || lista[i] > 50)
-        printf("El número no es valido,\n");
+        printf("El número no es valido, reinicie el programa\n");
 
     } while (!(lista[i] <= 50 || lista[i] >= 0));
   }
