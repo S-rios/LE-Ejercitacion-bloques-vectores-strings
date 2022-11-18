@@ -1,3 +1,5 @@
+/* Programa que se le pide un número y este número sea la cantidad de palabras que se van a poder ingresar,(ingresa las palabras) y como respuesta.
+te digo cual es la más larga.*/
 #include <stdio.h>
 //#include <string.h> libreria de string que creo que no podemos usar.
 
